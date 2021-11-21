@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Andrea
+- 🏫 I’m studying IT ITIS Paleocapa, Bergamo
+- 🧢 I like music, IT and programming
+- 🌱 I’m currently learning C#
+- 🌍 I like to collaborate with a team or with my mates
