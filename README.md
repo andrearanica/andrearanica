@@ -1,4 +1,4 @@
-<h1>I'm a student and a Beginner developer</h1>
+<h1>Hi! I'm a student and a Beginner developer 😄</h1>
 <ul>
   <li>👋🏻 Hi, I’m Andrea from Italy</li>
   <li>🏫 I’m studying IT from ITIS Paleocapa, Bergamo</li>
