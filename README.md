@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Andrea
+- 😄 Hi, I’m Andrea from Italy
 - 🏫 I’m studying IT ITIS Paleocapa, Bergamo
 - 🧢 I like music, IT and programming
-- 🌱 I’m currently learning C#
-- 🌍 I like to collaborate with a team or with my mates
+- 🌱 I’m currently learning C# 
