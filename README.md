@@ -4,7 +4,7 @@
   <li>🏫 I’m studying IT from ITIS Paleocapa, Bergamo</li>
   <li>🎮 I like music, IT, robotics and programming</li>
   <li>📚 I’m currently learning C# and .NET</li>
-  <li>🛰️ Goals for 2021 - Learn C# and create a robot Raspberry Pi Zero</li> 
+  <li>🛰️ Goals for 2021 - Learn C# and found a company with my friends</li> 
 </ul>
 
 <h3>Language and Software ☕</h3>
