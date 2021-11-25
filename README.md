@@ -5,6 +5,7 @@
   <li>🎮 I like music, IT, robotics and programming</li>
   <li>📚 I’m currently learning C# and .NET</li>
   <li>🛰️ Goals for 2021 - Learn C# and found a company with my friends</li> 
+  <li>🚈 I partecipated ABB RoboCup 2021 with ITIS Paleocapa</li>
 </ul>
 
 <h3>Language and Software ☕</h3>
