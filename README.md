@@ -10,7 +10,7 @@
 </ul>
 
 <h3>Languages and Softwares ☕</h3>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fit.wikipedia.org%2Fwiki%2FC%252B%252B&psig=AOvVaw0s4QNYgvZ6Fx-vDLUtcgN9&ust=1641308843340000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKjNroXulfUCFQAAAAAdAAAAABAD" style="width:20px;height:20px">
+<img src="https://it.wikipedia.org/wiki/File:ISO_C%2B%2B_Logo.svg" style="width:20px;height:20px">
 <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrearanica"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"> 
 <br>
 <!--A CAPO-->
