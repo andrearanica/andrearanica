@@ -3,8 +3,8 @@
   <li>👋🏻 Hi, I’m Andrea from Italy (Bergamo)</li>
   <li>🏫 I’m studying IT from ITIS Paleocapa, Bergamo</li>
   <li>🎮 I like music, IT, robotics and programming</li>
-  <li>📚 I’m currently learning C# and .NET</li>
-  <li>🛰️ I like to develop programs like softwares, websites and Windows Forms</li> 
+  <li>📚 I’m currently learning JavaScript, C# and .NET</li>
+  <li>🛰️ I like to develop softwares, websites and Windows Forms</li> 
   <li>🚈 I partecipated ABB RoboCup 2021 with ITIS Paleocapa</li>
 </ul>
 
