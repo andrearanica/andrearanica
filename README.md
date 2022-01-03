@@ -2,14 +2,15 @@
 <ul>
   <li>👋🏻 Hi, I’m Andrea from Italy (Bergamo)</li>
   <li>🏫 I’m studying IT from ITIS Paleocapa, Bergamo</li>
-  <li>🎮 I like music, IT, robotics and programming</li>
+  <!--|--<li>🎮 I like music, IT, robotics and programming</li>-->
+  <li>💪🏻 I'm determined, hard-working and ready to learn</li>
   <li>📚 I’m currently learning JavaScript, C# and .NET</li>
-  <li>🛰️ I like to develop softwares, websites and Windows Forms</li> 
+  <li>🛰️ I like to develop softwares, websites, videogames and Windows Forms</li> 
   <li>🚈 I partecipated ABB RoboCup 2021 with ITIS Paleocapa</li>
 </ul>
 
-<h3>Language and Software ☕</h3>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrearanica"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"> 
+<h3>Languages and Softwares ☕</h3>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrearanica"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"> 
 <br>
 <!--A CAPO-->
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
