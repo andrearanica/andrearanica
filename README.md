@@ -1,7 +1,7 @@
 <h1>Hi! I'm a student and a Beginner developer 😄</h1>
 <ul>
   <li>👋🏻 Hi, I’m Andrea from Italy (Bergamo)</li>
-  <li>🏫 I’m studying IT from ITIS Paleocapa, Bergamo</li>
+  <li>🏫 I’m studying informatic from ITIS Paleocapa, Bergamo</li>
   <!--|--<li>🎮 I like music, IT, robotics and programming</li>-->
   <li>💪🏻 I'm determined, hard-working and ready to learn</li>
   <li>📚 I’m currently learning JavaScript, C# and .NET</li>
