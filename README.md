@@ -12,7 +12,7 @@
 <h3>Languages and Softwares ☕</h3>
 <!--![Image](C++.png)-->
 <table style="text-align:center;border: none;">
-  <tr><td><img src="C++.png" style="width:26px;height:28px;"></td><td><img src="C#.png" style="width:20px;height:22px;"></td><td><img src="html.png" style="width:30px;height:32px;"></td><td><img src="css.png" style="width:22px;height:32px;"></td>
+  <tr><td><img src="C++.png" style="width:26px;height:28px;"></td><td><img src="c#.png" style="width:20px;height:22px;"></td><td><img src="html.png" style="width:30px;height:32px;"></td><td><img src="css.png" style="width:22px;height:32px;"></td>
 </tr>
 </table>
 
