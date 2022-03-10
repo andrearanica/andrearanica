@@ -1,12 +1,11 @@
-<h1>Hi! I'm a student and a Beginner developer 😄</h1>
+<h2>Hi! I'm Andrea 🖐🏻</h2>
 <ul>
   <li>👋🏻 Hi, I’m Andrea from Italy (Bergamo)</li>
   <li>🏫 I’m studying it from ITIS Paleocapa, Bergamo</li>
   <!--|--<li>🎮 I like music, IT, robotics and programming</li>-->
-  <li>💪🏻 I'm determined, hard-working and ready to learn</li>
   <li>📚 I’m currently learning JavaScript, C# and .NET</li>
   <li>🛰️ I like to develop softwares, websites, videogames and Windows Forms</li> 
-  <li>🚈 I partecipated ABB RoboCup 2021 with ITIS Paleocapa</li>
+  <li>🚈 I partecipated Cyberchallenge and ABB RoboCup 2021</li>
 </ul>
 
 <h3>Languages and Softwares ☕</h3>
