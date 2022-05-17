@@ -1,11 +1,9 @@
 <h2>Hi! I'm Andrea 🖐🏻</h2>
 <ul>
-  <li>👋🏻 Hi, I’m Andrea from Italy (Bergamo)</li>
+  <li>👋🏻 Hi, I’m Andrea from Italy</li>
   <li>🏫 I’m studying it from ITIS Paleocapa, Bergamo</li>
   <!--|--<li>🎮 I like music, IT, robotics and programming</li>-->
-  <li>📚 I’m currently learning JavaScript, C# and .NET</li>
-  <li>🛰️ I like to develop softwares, websites, videogames and Windows Forms</li> 
-  <li>🚈 I partecipated Cyberchallenge and ABB RoboCup 2021</li>
+  <li>📚 I’m currently learning JavaScript and PHP</li>
 </ul>
 
 <h3>Languages and Softwares ☕</h3>
@@ -15,10 +13,9 @@
 </tr>
 </table>
 -->
-<table style="border: 0px solid transparent; border-collapse: separate;border-spacing: 1em; text-align: center">
-  <tr><td>
+<table style="border: 0px solid black">
+  <tr style="padding: 5px"><td style="padding: 5px">
 	<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></td></tr>
-  <tr><td><img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"></td></td>
   </table>
 <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrearanica">-->
 
