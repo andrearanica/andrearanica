@@ -1,12 +1,12 @@
 <h2>Hi! I'm Andrea 🧑🏻‍💻</h2>
 <ul>
-  <li>👋🏻 Hi, I’m Andrea from Italy</li>
-  <li>🏫 I’m studying IT at ITIS Paleocapa, Bergamo</li>
+  <li>🖐🏻 Hi, I’m Andrea</li>
+  <li>🏫 I’m studying Computer Science at ITIS Paleocapa, Bergamo</li>
   <!--|--<li>🎮 I like music, IT, robotics and programming</li>-->
-  <li>📚 I’m currently learning VueJS and PHP</li>
+  <li>📚 I’m currently studying VueJS</li>
 </ul>
 
-<h3>Languages, Softwares and more ☕</h3>
+<h3>Languages and Softwares ☕</h3>
 <p align='left'>
 <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#">
 <img height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
