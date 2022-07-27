@@ -3,7 +3,7 @@
   <li>🖐🏻 Hi, I’m Andrea</li>
   <li>🏫 I’m studying Computer Science at ITIS Paleocapa, Bergamo</li>
   <!--|--<li>🎮 I like music, IT, robotics and programming</li>-->
-  <li>📚 I’m currently studying PHP</li>
+  <li>📚 I’m currently learning React</li>
 </ul>
 
 <h3>Languages and Softwares ☕</h3>
