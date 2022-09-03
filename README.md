@@ -17,7 +17,6 @@
 <img height="40" src="https://www.react-it-guide.com/static/media/ReactLogo.73ac128a.png">
 <!--<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Brackets_Icon.svg/2048px-Brackets_Icon.svg.png" alt='brackets'>-->
 <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1030px-Visual_Studio_Icon_2019.svg.png">
-<img src="https://images.credly.com/size/340x340/images/9fba5e4e-8105-4ec1-bc82-f3f1f4add276/image.png" height="40" />
 </p>
 
 <!--![Image](C++.png)-->
