@@ -6,7 +6,7 @@
   <li>📚 I’m currently learning React and Node</li>
 </ul>
 
-<h3>Languages and Softwares ☕</h3>
+<h3>Languages ☕</h3>
 <p align='left'>
 <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#">
 <img height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
@@ -20,6 +20,9 @@
 <img height="40" src="https://the-guild.dev/blog-assets/nodejs-esm/nodejs_logo.png">
 
 </p>
+<center>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrearanica&layout=compact"></center>
+
 
 <!--![Image](C++.png)-->
 <!--<table style="text-align:center;border: none;">
