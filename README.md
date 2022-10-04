@@ -21,7 +21,7 @@
 
 </p>
 <center>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrearanica&layout=compact"></center>
+<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrearanica&layout=compact"></center>-->
 
 
 <!--![Image](C++.png)-->
