@@ -1,4 +1,4 @@
-<h2>Hi! Welcome on my GitHub 🚀</h2>
+<h2>Welcome on my GitHub 🚀</h2>
 <ul>
   <li>🖐🏻 Hi, I’m Andrea</li>
   <li>🏫 I’m studying Computer Science at ITIS Paleocapa, Bergamo</li>
@@ -24,6 +24,7 @@
 <center>
 <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrearanica&layout=compact"></center>-->
 <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrearanica&layout=compact">-->
+<h3>Stats ⚙</h3>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=andrearanica&theme=light">
 <!--![Image](C++.png)-->
 <!--<table style="text-align:center;border: none;">
