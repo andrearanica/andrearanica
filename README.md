@@ -1,4 +1,4 @@
-<h2>🧑🏻‍💻 Welcome on my GitHub</h2>
+<h2>🧑🏻‍💻 Welcome on my profile</h2>
 <ul>
   <li>🖐🏻 Hi, I’m Andrea</li>
   <li>🏫 I’m studying Computer Science at ITIS Paleocapa, Bergamo</li>
