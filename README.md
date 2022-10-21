@@ -5,7 +5,7 @@
   <!--|--<li>🎮 I like music, IT, robotics and programming</li>-->
   <li>📚 I’m currently learning React and Node and working on (...coming soon)</li>
   <li>🎺 I like music, F1 and mountain</li>
-  <li>🤝🏻 Member of <a href="https://www.github.com/Pota-Team">@Pota Team</a> and honorary member of <a href="https://www.github.com/Valtrighe-Eagles">@Valtrighe Eagles</a>
+  <li>🏆 Member of <a href="https://www.github.com/Pota-Team">@Pota Team</a> and honorary member of <a href="https://www.github.com/Valtrighe-Eagles">@Valtrighe Eagles</a>
 </ul>
 
 <h3>Languages ☕</h3>
