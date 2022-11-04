@@ -9,16 +9,16 @@
 
 <h3>Languages ☕</h3>
 <p align='left'>
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#">
-<img height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="pyhton">
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html">
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css">
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javacript">
-<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">
+<a href="https://learn.microsoft.com/it-it/dotnet/csharp/"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#"></a>
+<a href="https://learn.microsoft.com/it-it/cpp/cpp/?view=msvc-170"><img height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg"></a>
+<a href="https://docs.python.org/3/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="pyhton"></a>
+<a href="https://www.w3schools.com/html/"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html"></a>
+<a href="https://www.w3schools.com/css/"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css"></a>
+<a href="https://www.javascript.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javacript"></a>
+<a href="https://it.reactjs.org/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"></a>
 <!--<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Brackets_Icon.svg/2048px-Brackets_Icon.svg.png" alt='brackets'>-->
-<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png">
-<img height="40" src="https://the-guild.dev/blog-assets/nodejs-esm/nodejs_logo.png">
+<a href="https://getbootstrap.com/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png"></a>
+<a href="https://nodejs.org/it/"><img height="40" src="https://the-guild.dev/blog-assets/nodejs-esm/nodejs_logo.png"></a>
 
 </p>
 <center>
