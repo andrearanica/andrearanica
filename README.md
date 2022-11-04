@@ -19,13 +19,14 @@
 <!--<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Brackets_Icon.svg/2048px-Brackets_Icon.svg.png" alt='brackets'>-->
 <a href="https://getbootstrap.com/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png"></a>
 <a href="https://nodejs.org/it/"><img height="40" src="https://the-guild.dev/blog-assets/nodejs-esm/nodejs_logo.png"></a>
-
 </p>
 <center>
 <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrearanica&layout=compact"></center>-->
 <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrearanica&layout=compact">-->
 <h3>Stats ⚙</h3>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=andrearanica&theme=light">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrearanica&layout=compact">
+
 <!--![Image](C++.png)-->
 <!--<table style="text-align:center;border: none;">
   <tr><td><img src="C++.png" style="width:26px;height:28px;"></td><td><img src="c#.png" style="width:20px;height:22px;"></td><td><img src="html.png" style="width:30px;height:32px;"></td><td><img src="css.png" style="width:22px;height:32px;"></td>
