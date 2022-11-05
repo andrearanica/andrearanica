@@ -4,7 +4,8 @@
   <li>🏫 I’m studying Computer Science at ITIS Paleocapa, Bergamo</li>
   <!--|--<li>🎮 I like music, IT, robotics and programming</li>-->
   <li>📚 I’m currently learning React and Node and working on (...coming soon)</li>
-  <li>🎺 I like music, F1 and mountain</li>
+  <li>🚴🏻 I like biking, running and feeling speed</li>
+  <!--<li>🎺 I like music, F1 and mountain</li>-->
 </ul>
 
 <h3>Languages ☕</h3>
