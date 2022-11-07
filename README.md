@@ -32,7 +32,6 @@
 
 <h3>Stats ⚙</h3>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=andrearanica&theme=light">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrearanica&layout=compact">
 
 <!--![Image](C++.png)-->
 <!--<table style="text-align:center;border: none;">
