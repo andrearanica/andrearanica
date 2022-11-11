@@ -1,6 +1,6 @@
 <h2>🧑🏻‍💻 Welcome on my profile</h2>
 <ul>
-  <li>🖐🏻 Hi, I’m Andrea</li>
+  <li>🖐🏻 Hi, I’m Andrea from Italy</li>
   <li>🏫 I’m studying Computer Science at ITIS Paleocapa, Bergamo</li>
   <!--|--<li>🎮 I like music, IT, robotics and programming</li>-->
   <li>📚 I’m currently learning React and Node and working on (...coming soon)</li>
