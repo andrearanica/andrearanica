@@ -3,7 +3,8 @@
   <li>🖐🏻 Hi, I’m Andrea from Italy</li>
   <li>🏫 I’m studying Computer Science at ITIS Paleocapa, Bergamo</li>
   <!--|--<li>🎮 I like music, IT, robotics and programming</li>-->
-  <li>📚 I’m currently learning React and Node and working on <a href="https://github.com/andrearanica/PiantApp">@PiantApp</a></li>
+  <li>🔭 I’m currently learning React and Node
+  <li>🚧 I'm working on <a href="https://github.com/andrearanica/PiantApp">@PiantApp</a> and (coming soon...)</li>
   <li>🚴🏻 I like biking, running and going fast</li>
   <!--<li>🎺 I like music, F1 and mountain</li>-->
 </ul>
