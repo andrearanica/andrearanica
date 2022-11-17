@@ -9,7 +9,7 @@
   <!--<li>🎺 I like music, F1 and mountain</li>-->
 </ul>
 
-<h3>Languages ☕</h3>
+<h3>Languages and Frameworks ☕</h3>
 <p align='left'>
 <a href="https://learn.microsoft.com/it-it/dotnet/csharp/"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#"></a>
 <a href="https://learn.microsoft.com/it-it/cpp/cpp/?view=msvc-170"><img height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg"></a>
