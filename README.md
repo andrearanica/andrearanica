@@ -1,4 +1,4 @@
-<h2>🧑🏻‍💻 Welcome on my profile</h2>
+<h2>🔭 I'm a student and (future) developer</h2>
 <ul>
   <li>🖐🏻 Hi, I’m Andrea from Italy</li>
   <li>🏫 I’m studying Computer Science at ITIS Paleocapa, Bergamo</li>
