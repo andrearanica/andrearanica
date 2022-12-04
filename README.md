@@ -21,7 +21,8 @@
 <!--<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Brackets_Icon.svg/2048px-Brackets_Icon.svg.png" alt='brackets'>-->
 <a href="https://getbootstrap.com/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png"></a>
 <a href="https://nodejs.org/it/"><img height="40" src="https://the-guild.dev/blog-assets/nodejs-esm/nodejs_logo.png"></a>
-<a href="https://php.net"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/260px-PHP-logo.svg.png">
+<a href="https://php.net"><img height="40" src="https://www.ilmiogiornale.org/wp-content/uploads/2022/03/R.png">
+<a href="https://www.mysql.com/it/downloads/"><img height="40" src="https://kinsta.com/it/wp-content/uploads/sites/2/2020/01/mysql-logo-1.svg"></a>
 </p>
 <center>
 <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrearanica&layout=compact"></center>-->
