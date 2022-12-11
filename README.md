@@ -3,7 +3,7 @@
   <li>🖐🏻 Hi, I’m Andrea from Italy</li>
   <li>🏫 I’m studying Computer Science at ITIS Paleocapa, Bergamo</li>
   <!--|--<li>🎮 I like music, IT, robotics and programming</li>-->
-  <li>🔭 I’m currently learning Node, PHP and SQL
+  <li>🔭 I’m currently learning Node and PHP
   <li>🚧 I'm working on (coming soon...)</li>
   <li>🚴🏻 I like biking, running and going fast</li>
   <!--<li>🎺 I like music, F1 and mountain</li>-->
