@@ -32,6 +32,7 @@
 <a href="mailto:andrearanica2004@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/800px-Gmail_icon_%282020%29.svg.png" width="40"></a>
 <a href="https://t.me/andrearanica"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" height="40"></a>
 <a href="https://www.strava.com/athletes/88882262"><img src="https://play-lh.googleusercontent.com/j-ZV144PlVuTVsLuBzIKyEw9CbFnmWw9ku2NJ1ef0gZJh-iiIN1nrNPmAtvgAteyDqU" height="40"></a>
+<a href="https://www.linkedin.com/in/andrearanica/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png?w=360" height="40"></a>
 
 <h3>Stats ⚙</h3>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=andrearanica&theme=light">
