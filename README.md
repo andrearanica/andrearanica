@@ -3,7 +3,7 @@
   <li>🖐🏻 Hi, I’m Andrea from Italy</li>
   <li>🏫 I’m studying Computer Science at ITIS Paleocapa, Bergamo</li>
   <!--|--<li>🎮 I like music, IT, robotics and programming</li>-->
-  <li>🔭 I’m currently learning PHP and MySQL
+  <li>🔭 I’m currently learning React Native
   <li>🚧 I'm working on <a href="http://github.com/FantaRace">@FantaRace</a> & <a href="http://github.com/FantaRace">@Fotoregistro</a></li>
   <li>🚴🏻 I like biking, running and going fast</li>
   <!--<li>🎺 I like music, F1 and mountain</li>-->
