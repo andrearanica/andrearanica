@@ -28,7 +28,7 @@
 <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrearanica&layout=compact"></center>-->
 <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrearanica&layout=compact">-->
 
-<h3>Reach me 📬</h3>
+<h3>I'm open to new collab! Reach me 📬</h3>
 <a href="https://www.linkedin.com/in/andrearanica/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png?w=360" height="40"></a>
 <a href="mailto:andrearanica2004@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/800px-Gmail_icon_%282020%29.svg.png" width="40"></a>
 <a href="https://t.me/andrearanica"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" height="40"></a>
