@@ -1,7 +1,7 @@
 <h2>📌 I'm a student and (future) developer</h2>
 <ul>
   <li>🖐🏻 Hi, I’m Andrea from Italy</li>
-  <li>🏫 I’m studying Computer Science at ITIS Paleocapa, Bergamo</li>
+  <li>🏫 I’m studying Computer Science @ ITIS Paleocapa, Bergamo</li>
   <!--|--<li>🎮 I like music, IT, robotics and programming</li>-->
   <li>🔭 I’m currently learning React Native
   <li>🚧 I'm working on <a href="http://github.com/FantaRace">@Fotoregistro</a></li>
