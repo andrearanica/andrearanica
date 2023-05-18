@@ -2,6 +2,7 @@
 <ul>
   <li>🖐🏻 Hi, I’m Andrea from Italy</li>
   <li>🏫 I’m studying Computer Science @ ITIS Paleocapa, Bergamo</li>
+  <li>🗺️ Visit my <a href='https://andrearanica.altervista.org'>website</a>!
   <!--|--<li>🎮 I like music, IT, robotics and programming</li>-->
   <li>🔭 I’m currently learning MVC
   <li>🚀 I want to become a Software engineer</li>
