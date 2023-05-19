@@ -6,7 +6,7 @@
   <!--|--<li>🎮 I like music, IT, robotics and programming</li>-->
   <li>🔭 I’m currently learning MVC
   <li>🚀 I want to become a Software engineer</li>
-  <li>🚧 I'm working on <a href="http://github.com/FantaRace">Fotoregistro</a></li>
+  <li>🚧 I'm working on <a href="http://github.com/andrearanica/fotoregistro">Fotoregistro</a> and <a href='http://github.com/andrearanica/portfolio'>portfolio</a></li>
   <li>🚴🏻 I like biking and going fast</li>
   <!--<li>🎺 I like music, F1 and mountain</li>-->
 </ul>
