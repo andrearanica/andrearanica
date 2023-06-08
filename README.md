@@ -4,7 +4,7 @@
   <li>🏫 I’m studying Computer Science @ ITIS Paleocapa, Bergamo</li>
   <li>🗺️ Visit my <a href='https://andrearanica.altervista.org'>website</a>!
   <!--|--<li>🎮 I like music, IT, robotics and programming</li>-->
-  <li>🔭 I’m currently learning PHP & MVC
+  <li>🔭 I’m currently learning PHP and laravel
   <li>🚀 I want to become a Software engineer</li>
   <li>🚧 I'm working on <a href="http://github.com/andrearanica/fotoregistro">Fotoregistro</a></li>
   <li>🚴🏻 I like biking and going fast</li>
