@@ -1,11 +1,11 @@
-<h2>📌 I'm a student and (future) developer</h2>
+<h2>📌 I'm a developer and student</h2>
 <ul>
   <li>🖐🏻 Hi, I’m Andrea from Italy</li>
   <li>🏫 I’m studying Computer Science @ ITIS Paleocapa, Bergamo</li>
+  <li>😎 I work ad DDX</li>
   <li>🗺️ Visit my <a href='https://andrearanica.altervista.org'>website</a>!
   <!--|--<li>🎮 I like music, IT, robotics and programming</li>-->
   <li>🔭 I’m currently learning PHP and laravel
-  <li>🚀 I want to become a Software engineer</li>
   <li>🚧 I'm working on <a href="http://github.com/andrearanica/fotoregistro">Fotoregistro</a></li>
   <li>🚴🏻 I like biking and going fast</li>
   <!--<li>🎺 I like music, F1 and mountain</li>-->
