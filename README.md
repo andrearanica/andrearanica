@@ -2,7 +2,7 @@
 <ul>
   <li>🖐🏻 Hi, I’m Andrea from Italy</li>
   <li>🏫 I’m studying Computer Science @ ITIS Paleocapa, Bergamo</li>
-  <li>😎 I work ad DDX</li>
+  <li>😎 I work at DDX</li>
   <li>🗺️ Visit my <a href='https://andrearanica.altervista.org'>website</a>!
   <!--|--<li>🎮 I like music, IT, robotics and programming</li>-->
   <li>🔭 I’m currently learning PHP and laravel
