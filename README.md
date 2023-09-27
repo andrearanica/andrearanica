@@ -1,7 +1,7 @@
 <h2>📌 I'm a developer and student</h2>
 <ul>
   <li>🖐🏻 Hi, I’m Andrea from Italy</li>
-  <li>🏫 I’m studying Computer Science @ ITIS Paleocapa, Bergamo</li>
+  <li>🏫 I’m studying Computer Science @ University of Milano Bicocca</li>
   <li>😎 I work at DDX</li>
   <li>🗺️ Visit my <a href='https://andrearanica.altervista.org'>website</a>!
   <!--|--<li>🎮 I like music, IT, robotics and programming</li>-->
