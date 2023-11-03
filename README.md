@@ -2,20 +2,18 @@
 <ul>
   <li>🖐🏻 Hi, I’m Andrea from Italy</li>
   <li>🏫 I’m studying Computer Science @ University of Milano Bicocca</li>
-  <li>😎 I work at DDX</li>
-  <li>🗺️ Visit my <a href='https://andrearanica.altervista.org'>website</a>!
+  <li>⌨️ I work at DDX Software Solutions</li>
+  <li>📕 I'm learning Python and I'm interested in Software Engineering</li>
   <!--|--<li>🎮 I like music, IT, robotics and programming</li>-->
-  <li>🔭 I’m currently learning PHP and laravel
-  <li>🚧 I'm working on <a href="http://github.com/andrearanica/fotoregistro">Fotoregistro</a></li>
-  <li>🚴🏻 I like biking and going fast</li>
+  <!--<li>🚴🏻 I like biking and going fast</li>-->
   <!--<li>🎺 I like music, F1 and mountain</li>-->
 </ul>
 
 <h3>Languages and Frameworks ☕</h3>
 <p align='left'>
+<a href="https://docs.python.org/3/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="pyhton"></a>
 <a href="https://learn.microsoft.com/it-it/dotnet/csharp/"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#"></a>
 <a href="https://learn.microsoft.com/it-it/cpp/cpp/?view=msvc-170"><img height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg"></a>
-<a href="https://docs.python.org/3/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="pyhton"></a>
 <a href="https://www.w3schools.com/html/"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html"></a>
 <a href="https://www.w3schools.com/css/"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css"></a>
 <a href="https://www.javascript.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javacript"></a>
@@ -32,7 +30,7 @@
 <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrearanica&layout=compact"></center>-->
 <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrearanica&layout=compact">-->
 
-<h3>I'm open to new collab! Reach me 📬</h3>
+<!--<h3>Reach me 📬</h3>
 <a href="https://www.linkedin.com/in/andrearanica/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png?w=360" height="40"></a>
 <a href="mailto:andrearanica2004@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/800px-Gmail_icon_%282020%29.svg.png" width="40"></a>
 <a href="https://t.me/andrearanica">
