@@ -40,8 +40,7 @@
 <a href="https://t.me/andrearanica">
 <!--<a href="https://www.strava.com/athletes/88882262"><img src="https://play-lh.googleusercontent.com/j-ZV144PlVuTVsLuBzIKyEw9CbFnmWw9ku2NJ1ef0gZJh-iiIN1nrNPmAtvgAteyDqU" height="40"></a>-->
 
-<h3>Stats ⚙</h3>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=andrearanica&theme=light">
+
 
 <!--![Image](C++.png)-->
 <!--<table style="text-align:center;border: none;">
