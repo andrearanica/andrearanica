@@ -1,10 +1,8 @@
-<h2>👋 Hi everyone! I'm a Software developer and student</h2>
+<h2>👋 Hi everyone! I'm a software developer and student</h2>
 <ul>
-  <li>🖐🏻 Hi, I’m Andrea from Italy</li>
   <li>🏫 I’m studying Computer Science @ University of Milano Bicocca</li>
   <li>⌨️ I work as a CAD/CAM Software developer @ DDX Software Solutions</li>
-  <li>📖 I'm currently studying computer architecture, algorithms, data structures and linear algebra</li>
-  <li>🎓 I'm interested in studying theoretical computer science, algorithms and programming languages</li>
+  <li>🎓 I'm interested in studying computer graphics, programming languages and algorithms</li>
   <!--|--<li>🎮 I like music, IT, robotics and programming</li>-->
   <!--<li>🚴🏻 I like biking and going fast</li>-->
   <!--<li>🎺 I like music, F1 and mountain</li>-->
