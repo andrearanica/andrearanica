@@ -1,8 +1,8 @@
 <h2>👋 Hi everyone! I'm a software developer and student</h2>
 <ul>
   <li>🏫 I’m studying Computer Science @ University of Milano Bicocca</li>
-  <li>⌨️ I work as a CAD/CAM Software developer @ DDX Software Solutions</li>
-  <li>🎓 I'm interested in studying computer graphics, algorithms and operating systems</li>
+  <li>⌨️ I work as a software developer @ DDX Software Solutions</li>
+  <li>🎓 I'm interested in learning computer graphics, emulation and theoretical computer science</li>
   <!--|--<li>🎮 I like music, IT, robotics and programming</li>-->
   <!--<li>🚴🏻 I like biking and going fast</li>-->
   <!--<li>🎺 I like music, F1 and mountain</li>-->
