@@ -2,7 +2,7 @@
 <ul>
   <li>🏫 I’m studying Computer Science @ University of Milano Bicocca</li>
   <li>⌨️ I work as a software developer @ DDX Software Solutions</li>
-  <li>🎓 I'm interested in learning computer graphics, emulation and theoretical computer science</li>
+  <li>🎓 I'm interested in learning computer graphics, operating systems and theoretical computer science</li>
   <!--|--<li>🎮 I like music, IT, robotics and programming</li>-->
   <!--<li>🚴🏻 I like biking and going fast</li>-->
   <!--<li>🎺 I like music, F1 and mountain</li>-->
